@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+### Fixes
+
+- Handle Permission Denied gracefully when deleting syslogs
+
 ## 0.2.16 - 2024-05-09
 
 ## Fixes
